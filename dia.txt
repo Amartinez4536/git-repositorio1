@@ -3,3 +3,6 @@ Martes
 Miércoles
 Jueves 
 Viernes
+Sabado
+Domingo
+
